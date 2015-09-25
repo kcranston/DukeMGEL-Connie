@@ -11,3 +11,8 @@
 1. Email/skype and good communication
 2. Detailed notes for each file version/change and organization
 3. ArcGIS for visualizing spatial data
+
+## Question for Connie:
+
+What do sea turtles eat?
+
